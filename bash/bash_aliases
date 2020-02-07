@@ -1,0 +1,4 @@
+alias gs='git status'
+alias gaa='git add .'
+alias gcm='git commit -m'
+alias gpom='git push origin master'
