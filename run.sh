@@ -1,7 +1,7 @@
 #!/bin/sh
 # tạo symlink cho vim 
+ln -sf ~/dotfiles/vim/vimrc ~/.vimrc
+ln -sf ~/dotfiles/vim ~/.vim
 
-ln -s ~/dotfiles/vim/.vimrc ~/.vimrc
-
-# tạo symlink cho vim 
-ln -s ~/dotfiles/bash/.bashrc ~/.bashrc
+# tạo symlink cho bash 
+ln -sf ~/dotfiles/bash/bashrc ~/.bashrc
